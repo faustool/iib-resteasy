@@ -1,7 +1,7 @@
 # iib-resteasy
 Rest easy POC
 
-First of all, this project depends on https://github.com/faustool/iib-junit4, so clone that and call mvn install on it.
+IMPORTANT: This project depends on https://github.com/faustool/iib-junit4, so clone that and call mvn install on it before you try anything else.
 
 To try this POC, just do mvn exec:java, then enter these URLs in your browser to see the results:
 
