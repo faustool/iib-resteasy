@@ -1,7 +1,9 @@
 # iib-resteasy
 Rest easy POC
 
-Try this program out by running the RestService main method like any Java Application and enter these URLs in your browser to see the results:
+First of all, this project depends on https://github.com/faustool/iib-junit4, so clone that and call mvn install on it.
+
+To try this POC, just do mvn exec:java, then enter these URLs in your browser to see the results:
 
 http://localhost:8085/test/com.faustool.iib.junit4.POCTest
 http://localhost:8085/test/com.faustool.iib.junit4.POCTest/testSuccess
